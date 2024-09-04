@@ -8,7 +8,7 @@ android {
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.charmaser.hackerapp"
+        applicationId = "com.charmaser.receiver"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
