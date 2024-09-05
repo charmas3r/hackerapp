@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.charmaser.hackerapp"
+    namespace = "com.charmaser.receiver"
     compileSdk = 34
 
     defaultConfig {
